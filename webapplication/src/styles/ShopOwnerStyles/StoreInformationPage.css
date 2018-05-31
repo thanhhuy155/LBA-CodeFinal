@@ -1,0 +1,31 @@
+.image-appear {
+    opacity: 0.01;
+ }
+ .image-appear.example-appear-active {
+    opacity: 1;
+    transition: opacity 1s ease-in;
+}
+
+.table-appear {
+    opacity: 0.01;
+ }
+ .table-appear.example-appear-active {
+    opacity: 1;
+    transition: opacity 2s ease-in;
+}
+
+.map-appear {
+    opacity: 0.01;
+ }
+ .map-appear.example-appear-active {
+    opacity: 1;
+    transition: opacity 3s ease-in;
+}
+
+.chart-appear {
+    opacity: 0.01;
+ }
+ .chart-appear.example-appear-active {
+    opacity: 1;
+    transition: opacity 4s ease-in;
+}

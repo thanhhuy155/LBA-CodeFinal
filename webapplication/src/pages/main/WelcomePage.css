@@ -1,0 +1,18 @@
+.wrapper{
+    background-image: url("../../images/background.png"); 
+    min-height: 100vh;
+}
+.main {
+    min-height: 83.5vh;
+    position: relative;
+    flex:1;
+    /* background-image: url("../../images/background.png");  */
+    
+}
+
+.footer {
+    position: absolute;
+    bottom:0;
+    width:100%;
+    margin-top: 75px;
+}

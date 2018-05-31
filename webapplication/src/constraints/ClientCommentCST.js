@@ -1,0 +1,2 @@
+export const CLIENT_COMMENT = "CLIENT_COMMENT"
+export const STOP_LOAD_MORE = "STOP_LOAD_MORE"

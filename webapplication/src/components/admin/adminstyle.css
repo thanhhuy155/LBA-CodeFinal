@@ -1,0 +1,131 @@
+/* html,
+#root {
+    min-height: 100% !important;
+}
+/* body {
+    background: #f4f4f4;
+    min-height: 100% !important;
+} */ */
+
+/* Navbar */
+
+/* .navbar1 {
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-nav>li>a {
+    height: 40px;
+} */
+
+/* .navbar-default1 {
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+
+.navbar-default1 .navbar-brand1 {
+    color: #ecf0f1;
+}
+
+.navbar-default1 .navbar-brand1:hover,
+.navbar-default1 .navbar-brand1:focus {
+    color: #ffbbbc;
+}
+
+.navbar-default1 .navbar-text {
+    color: #ecf0f1;
+}
+
+.navbar-default1 .navbar-nav>li>a {
+    color: #ecf0f1;
+}
+
+.navbar-default1 .navbar-nav>li>a:hover,
+.navbar-default1 .navbar-nav>li>a:focus {
+    color:white;
+} */
+
+/* .navbar-default1 .navbar-nav>.active>a,
+.navbar-default1 .navbar-nav>.active>a:hover,
+.navbar-default1 .navbar-nav>.active>a:focus {
+    color: #ecf0f1;
+    background-color: #337ab7;
+} */
+
+/* .navbar-default1 .navbar-nav>.open>a,
+.navbar-default1 .navbar-nav>.open>a:hover,
+.navbar-default1 .navbar-nav>.open>a:focus {
+    color: #ffbbbc;
+    background-color: #337ab7;
+} */
+
+/* .navbar-default1 .navbar-toggle {
+    border-color: #337ab7;
+}
+
+.navbar-default1 .navbar-toggle:hover,
+.navbar-default1 .navbar-toggle:focus {
+    background-color: #337ab7;
+}
+
+.navbar-default1 .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+}
+
+.navbar-default1 .navbar-collapse,
+.navbar-default1 .navbar-form {
+    border-color: #ecf0f1;
+} */
+
+/* .navbar-default1 .navbar-link {
+    color: #ecf0f1;
+}
+
+.navbar-default1 .navbar-link:hover {
+    color: #ffbbbc;
+} */
+/* Header */
+
+/* #header1 {
+    background: #092544;
+    color: #ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#header1 .create {
+    padding-top: 20px;
+} */
+.asdasd{
+    min-width: 280px; 
+    min-height: 100%;
+}
+.asasdasdasdjasd{
+    min-width: 250px;
+}
+    .w3-teal{
+        color: #fff !important;
+        background-color: #009688 !important;
+    }
+    .w3-teal1{
+        color: #fff !important;
+        background-color:lightcoral  !important;
+    }
+    .w3-teal2{
+        color: #fff !important;
+        background-color: darkolivegreen !important;
+    }
+    .w3-teal3{
+        color: #fff !important;
+        background-color: #ff9800 !important;
+    }
+    .w3-text-blue{
+        color: #ff9800
+    }
+a.list-group-item1:focus,
+a.list-group-item1:hover {
+    color: #555;
+    text-decoration: none;
+    background-color: #d09c9c;
+}
